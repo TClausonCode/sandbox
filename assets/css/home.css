@@ -1,1 +1,14 @@
 @import "https://sandbox-tclauson2014360962.codeanyapp.com/assets/css/main.css";
+@import url('https://fonts.googleapis.com/css?family=Press+Start+2P');
+
+header{
+  height: 100vh;
+  background: #222 url("https://sandbox-tclauson2014360962.codeanyapp.com/assets/img/gif/retroBG.gif") center center no-repeat;
+    background-size: cover;
+}
+nav{
+  font-family: 'Press Start 2P', cursive;
+}
+h1{
+  font-family: outrunfuture;
+}

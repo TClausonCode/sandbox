@@ -1,4 +1,4 @@
- <a class="navbar-brand text-danger" href="#">&lt;Sandbox/></a>
+
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
     <span class="navbar-toggler-icon"></span>
   </button>
@@ -34,11 +34,13 @@
           <a class="dropdown-item" href="https://drive.google.com/drive/u/0/folders/0BxY_moqcCNXKdVhBYktEcUo1Mnc" target="_blank">Global IT</a>
           <a class="dropdown-item" href="https://drive.google.com/drive/u/0/folders/0BxY_moqcCNXKM0dWZjBFWnBxQms" target="_blank">Physics</a>
           <a class="dropdown-item" href="https://drive.google.com/drive/u/0/folders/0BxY_moqcCNXKX051bm5ua1hydnc" target="_blank">Pre Calculus</a>
+          <a id="todaysDate" class="dropdown-item" href="#">Something else here</a>
           
           
           
         </div>
       </li>
+      
             <li class="nav-item">
         <a class="nav-link" href="#">Contact</a>
       </li>

@@ -1,0 +1,18 @@
+@font-face {
+  font-family: 'outrunfuture';
+  src: url('https://foothillertech.com/student/globalit/2017/DataTeam11/assets/font/outrunfuture.eot?#iefix') format('embedded-opentype'),  url('https://foothillertech.com/student/globalit/2017/DataTeam11/assets/font/outrunfuture.woff') format('woff'), url('https://foothillertech.com/student/globalit/2017/DataTeam11/assets/font/outrunfuture.ttf')  format('truetype'), url('https://foothillertech.com/student/globalit/2017/DataTeam11/assets/font/outrunfuture.svg#outrunfuture') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'chrom';
+  src: url('https://foothillertech.com/student/globalit/2017/DataTeam11/assets/font/chrom-webfont.ttf') format('truetype'),  url('https://foothillertech.com/student/globalit/2017/DataTeam11/assets/font/chrom-webfont.woff') format('woff'), url('https://foothillertech.com/student/globalit/2017/DataTeam11/assets/font/chrom-webfont.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'lazer84';
+  src: url('https://foothillertech.com/student/globalit/2017/DataTeam11/assets/font/lazer84-webfont.ttf') format('truetype'),  url('https://foothillertech.com/student/globalit/2017/DataTeam11/assets/font/lazer84-webfont.woff') format('woff'), url('https://foothillertech.com/student/globalit/2017/DataTeam11/assets/font/lazer84-webfont.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
